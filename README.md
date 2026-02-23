@@ -23,5 +23,5 @@ To transition from beginner-level programming knowledge to building independent,
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/poonam-sharma-9529072b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/poonam-sharma-9529072b0?
 - Email: poonamsharma200645@gmail.com
