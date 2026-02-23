@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Poonam Sharma 👋
 
-<!--
-**PoonamSharma-Eng/PoonamSharma-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Student
+💻 Python Learner | Exploring Web Development  
+🧠 Problem Solver | Logical Thinker | AI-Enhanced Learner  
 
-Here are some ideas to get you started:
+I have foundational knowledge of Python and basic understanding of HTML. I am currently strengthening my programming skills and exploring web development concepts step-by-step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy breaking down real-world problems, designing logical solutions, and using modern tools to improve productivity while building strong independent technical skills.
+
+---
+
+## 🌱 Currently Improving
+- Python fundamentals & problem solving
+- Web development basics
+- Data Structures & logical thinking
+
+---
+
+## 🎯 Goal
+To transition from beginner-level programming knowledge to building independent, real-world technical projects.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/poonam-sharma-9529072b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: poonamsharma200645@gmail.com
